@@ -1,0 +1,16 @@
+
+player1
+
+figure_1 ( basic figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_2 ( basic figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46] Figura završila kretanje: NE
+figure_3 ( basic figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_4 ( fast figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+
+player2
+
+figure_5 ( flying figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_6 ( basic figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_7 ( fast figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_8 ( flying figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+
+Vrijeme trajanje igre: 0:3:46

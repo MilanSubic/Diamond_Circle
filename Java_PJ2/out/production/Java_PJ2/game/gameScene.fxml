@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="game.GameSceneController">
+   <children>
+      <Button fx:id="startButton" layoutX="448.0" layoutY="45.0" mnemonicParsing="false" onAction="#startButtonAction" prefHeight="28.0" prefWidth="112.0" text="Pokreni/Zaustavi" />
+      <Label layoutX="255.0" layoutY="45.0" prefHeight="28.0" prefWidth="91.0" text="Diamond Circle" />
+      <Label layoutX="54.0" layoutY="7.0" prefHeight="58.0" prefWidth="127.0" text="Trenutni broj odigranih igara" textAlignment="CENTER" wrapText="true" />
+      <StackPane fx:id="stackPane" layoutX="181.0" layoutY="145.0" prefHeight="251.0" prefWidth="240.0" />
+      <ImageView fx:id="imageView" fitHeight="251.0" fitWidth="127.0" layoutX="442.0" layoutY="145.0" pickOnBounds="true" preserveRatio="true" />
+      <TextArea fx:id="textArea" layoutX="180.0" layoutY="478.0" prefHeight="98.0" prefWidth="240.0" />
+      <Label fx:id="resultLabel" layoutX="113.0" layoutY="57.0" prefHeight="17.0" prefWidth="22.0" textAlignment="RIGHT" />
+      <VBox fx:id="vBox" layoutX="23.0" layoutY="85.0" prefHeight="431.0" prefWidth="112.0" />
+      <HBox fx:id="hBox" layoutX="101.0" layoutY="92.0" prefHeight="28.0" prefWidth="404.0" />
+      <Label fx:id="timeLabel" layoutX="23.0" layoutY="539.0" prefHeight="28.0" prefWidth="112.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <ListView fx:id="listView" layoutX="423.0" layoutY="478.0" onMouseClicked="#showResultInTextArea" prefHeight="98.0" prefWidth="173.0" />
+      <Button fx:id="newGameButton" layoutX="448.0" layoutY="14.0" mnemonicParsing="false" onAction="#newGameButtonAction" prefHeight="25.0" prefWidth="112.0" text="Nova igra" />
+   </children>
+</AnchorPane>

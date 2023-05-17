@@ -1,0 +1,23 @@
+
+player1
+
+figure_1 ( flying figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_2 ( flying figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_3 ( flying figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_4 ( flying figure, crvena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+
+player2
+
+figure_5 ( basic figure, zuta ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_6 ( fast figure, zuta ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_7 ( basic figure, zuta ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_8 ( fast figure, zuta ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18] Figura završila kretanje: NE
+
+player3
+
+figure_9 ( basic figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30] Figura završila kretanje: NE
+figure_10 ( flying figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_11 ( flying figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26, 32, 24, 25] Figura završila kretanje: DA
+figure_12 ( fast figure, zelena ) Predjeni put: [4, 12, 20, 28, 34, 40, 46, 38, 30, 22, 16, 10, 11, 19, 27, 33, 39, 31, 23, 17, 18, 26] Figura završila kretanje: NE
+
+Vrijeme trajanje igre: 0:5:50

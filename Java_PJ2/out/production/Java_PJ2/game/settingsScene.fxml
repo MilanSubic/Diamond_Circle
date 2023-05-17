@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16" fx:controller="game.SettingsSceneController">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="399.0" prefWidth="400.0">
+         <children>
+            <Button fx:id="settingsButton" layoutX="169.0" layoutY="272.0" mnemonicParsing="false" onAction="#settingsButtonAction" text="Potvrdi">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <TextField fx:id="dimensionOfMatrixField" layoutX="126.0" layoutY="121.0" />
+            <TextField fx:id="numberOfPlayersField" layoutX="126.0" layoutY="207.0" />
+            <Label layoutX="126.0" layoutY="78.0" prefHeight="25.0" prefWidth="149.0" text="Dimenzija matrice">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="126.0" layoutY="175.0" prefHeight="25.0" prefWidth="149.0" text="Broj igrača">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>

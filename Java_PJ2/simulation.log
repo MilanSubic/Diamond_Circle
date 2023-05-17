@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-17T13:29:08.704905Z</date>
+  <millis>1684330148704</millis>
+  <nanos>905000</nanos>
+  <sequence>1</sequence>
+  <logger>game.Simulation</logger>
+  <level>WARNING</level>
+  <class>game.SettingsSceneController</class>
+  <method>settingsButtonAction</method>
+  <thread>17</thread>
+  <message>game.WrongDataException: Dimenzija nije odgovarajuća!</message>
+</record>
+<record>
+  <date>2023-05-17T13:29:08.716904600Z</date>
+  <millis>1684330148716</millis>
+  <nanos>904600</nanos>
+  <sequence>2</sequence>
+  <logger>game.Simulation</logger>
+  <level>WARNING</level>
+  <class>game.SettingsSceneController</class>
+  <method>settingsButtonAction</method>
+  <thread>17</thread>
+  <message>game.WrongDataException: Broj igrača nije odgovarajući!</message>
+</record>
